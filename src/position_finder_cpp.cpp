@@ -44,9 +44,15 @@ int main(int argc, char** argv){
     tf::Matrix3x3 m(transform.getRotation());
 
     double roll, pitch, yaw;
-    m.getRPY(roll, pitch, yaw); //Calculate roll, pitch, and yaw from quaternion
+    m.getRPY(roll, pitch, yaw); //Calculate roll, pitch, and yaw from quaternion in radians
+    
+     //Convert radians to degrees
+    roll = roll_rad * 180.0 / M_PI;
+    pitch = pitch_rad * 180.0 / M_PI;
+    yaw = yaw_rad * 180.0 / M_PI;
 
-    // Note that units for translational components are meters, and rotational components are radians
+
+    // Note that units for translational components are meters, and rotational components degrees
 
     fprintf(stdout, "TRANSLATIONAL COMPONENTS\n");
     fprintf(stdout, "X: %f\n", x);
