@@ -43,8 +43,8 @@ int main(int argc, char** argv){
 
     tf::Matrix3x3 m(transform.getRotation());
 
-    double roll, pitch, yaw;
-    m.getRPY(roll, pitch, yaw); //Calculate roll, pitch, and yaw from quaternion in radians
+    double roll_rad, pitch_rad, yaw_rad, roll, pitch, yaw;
+    m.getRPY(roll_rad, pitch_rad, yaw_rad); //Calculate roll, pitch, and yaw from quaternion in radians and assign them to the proper variables
     
      //Convert radians to degrees
     roll = roll_rad * 180.0 / M_PI;
