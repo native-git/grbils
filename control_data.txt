@@ -1,0 +1,454 @@
+Raw Distance: 1.5
+Anticipated Distance: 1.5
+Target Velocity: 0.387298334621
+Current Velocity: 0.0
+0.0
+Raw Distance: 1.5
+Anticipated Distance: 1.5
+Target Velocity: 0.387298334621
+Current Velocity: 0.0
+0.0
+Raw Distance: 1.5
+Anticipated Distance: 1.5
+Target Velocity: 0.387298334621
+Current Velocity: 0.0
+0.0
+Raw Distance: 1.5
+Anticipated Distance: 1.5
+Target Velocity: 0.387298334621
+Current Velocity: 0.0
+0.0
+Raw Distance: 1.5
+Anticipated Distance: 1.49824125
+Target Velocity: 0.387071214378
+Current Velocity: 0.0105
+0.003
+Raw Distance: 1.497
+Anticipated Distance: 1.48970833333
+Target Velocity: 0.385967399314
+Current Velocity: 0.035
+0.003
+Raw Distance: 1.497
+Anticipated Distance: 1.48970833333
+Target Velocity: 0.385967399314
+Current Velocity: 0.035
+0.003
+Raw Distance: 1.497
+Anticipated Distance: 1.48970833333
+Target Velocity: 0.385967399314
+Current Velocity: 0.035
+0.003
+Raw Distance: 1.497
+Anticipated Distance: 1.48970833333
+Target Velocity: 0.385967399314
+Current Velocity: 0.035
+0.003
+Raw Distance: 1.497
+Anticipated Distance: 1.48970833333
+Target Velocity: 0.385967399314
+Current Velocity: 0.035
+0.068
+Raw Distance: 1.432
+Anticipated Distance: 1.34528125
+Target Velocity: 0.366780758765
+Current Velocity: 0.1875
+0.09
+Raw Distance: 1.41
+Anticipated Distance: 1.29411458333
+Target Velocity: 0.359738041265
+Current Velocity: 0.2225
+0.115
+Raw Distance: 1.385
+Anticipated Distance: 1.24382458333
+Target Velocity: 0.352678973478
+Current Velocity: 0.2495
+0.142
+Raw Distance: 1.358
+Anticipated Distance: 1.18587458333
+Target Velocity: 0.344365297806
+Current Velocity: 0.2795
+0.173
+Raw Distance: 1.327
+Anticipated Distance: 1.11914833333
+Target Velocity: 0.334536744369
+Current Velocity: 0.311
+0.207
+Raw Distance: 1.293
+Anticipated Distance: 1.05189333333
+Target Velocity: 0.324329051017
+Current Velocity: 0.338
+0.241
+Raw Distance: 1.259
+Anticipated Distance: 1.01469125
+Target Velocity: 0.318542187159
+Current Velocity: 0.3405
+0.274
+Raw Distance: 1.226
+Anticipated Distance: 1.00059125
+Target Velocity: 0.316321237036
+Current Velocity: 0.3255
+0.306
+Raw Distance: 1.194
+Anticipated Distance: 0.982573333333
+Target Velocity: 0.313460257981
+Current Velocity: 0.314
+0.337
+Raw Distance: 1.163
+Anticipated Distance: 0.957515
+Target Velocity: 0.309437392698
+Current Velocity: 0.309
+0.369
+Raw Distance: 1.131
+Anticipated Distance: 0.917173333333
+Target Velocity: 0.302848697097
+Current Velocity: 0.316
+0.4
+Raw Distance: 1.1
+Anticipated Distance: 0.88917125
+Target Velocity: 0.298189746638
+Current Velocity: 0.3135
+0.431
+Raw Distance: 1.069
+Anticipated Distance: 0.871693333333
+Target Velocity: 0.29524453142
+Current Velocity: 0.302
+0.46
+Raw Distance: 1.04
+Anticipated Distance: 0.849573333333
+Target Velocity: 0.291474412828
+Current Velocity: 0.296
+0.49
+Raw Distance: 1.01
+Anticipated Distance: 0.819573333333
+Target Velocity: 0.28628191234
+Current Velocity: 0.296
+0.519
+Raw Distance: 0.981
+Anticipated Distance: 0.799004583333
+Target Velocity: 0.282666691234
+Current Velocity: 0.2885
+0.548
+Raw Distance: 0.952
+Anticipated Distance: 0.773875
+Target Velocity: 0.278186088797
+Current Velocity: 0.285
+0.576
+Raw Distance: 0.924
+Anticipated Distance: 0.745875
+Target Velocity: 0.27310712184
+Current Velocity: 0.285
+0.604
+Raw Distance: 0.896
+Anticipated Distance: 0.72764
+Target Velocity: 0.269748030577
+Current Velocity: 0.276
+0.631
+Raw Distance: 0.869
+Anticipated Distance: 0.704364583333
+Target Velocity: 0.265398678093
+Current Velocity: 0.2725
+0.659
+Raw Distance: 0.841
+Anticipated Distance: 0.679
+Target Velocity: 0.260576284416
+Current Velocity: 0.27
+0.685
+Raw Distance: 0.815
+Anticipated Distance: 0.66078125
+Target Velocity: 0.257056657179
+Current Velocity: 0.2625
+0.711
+Raw Distance: 0.789
+Anticipated Distance: 0.638348333333
+Target Velocity: 0.252655562641
+Current Velocity: 0.259
+0.737
+Raw Distance: 0.763
+Anticipated Distance: 0.612854583333
+Target Velocity: 0.247558999702
+Current Velocity: 0.2585
+0.763
+Raw Distance: 0.737
+Anticipated Distance: 0.592864583333
+Target Velocity: 0.24348810717
+Current Velocity: 0.2525
+0.787
+Raw Distance: 0.713
+Anticipated Distance: 0.574268333333
+Target Velocity: 0.239638964556
+Current Velocity: 0.247
+0.812
+Raw Distance: 0.688
+Anticipated Distance: 0.550724583333
+Target Velocity: 0.234675218831
+Current Velocity: 0.2455
+0.836
+Raw Distance: 0.664
+Anticipated Distance: 0.532474583333
+Target Velocity: 0.230754107945
+Current Velocity: 0.2395
+0.859
+Raw Distance: 0.641
+Anticipated Distance: 0.51324125
+Target Velocity: 0.226548284037
+Current Velocity: 0.2355
+0.883
+Raw Distance: 0.617
+Anticipated Distance: 0.493415
+Target Velocity: 0.222129466753
+Current Velocity: 0.231
+0.906
+Raw Distance: 0.594
+Anticipated Distance: 0.475424583333
+Target Velocity: 0.218042331517
+Current Velocity: 0.2255
+0.928
+Raw Distance: 0.572
+Anticipated Distance: 0.45656
+Target Velocity: 0.213672646822
+Current Velocity: 0.222
+0.95
+Raw Distance: 0.55
+Anticipated Distance: 0.43853125
+Target Velocity: 0.209411377437
+Current Velocity: 0.2175
+0.971
+Raw Distance: 0.529
+Anticipated Distance: 0.421435
+Target Velocity: 0.205288820933
+Current Velocity: 0.213
+0.992
+Raw Distance: 0.508
+Anticipated Distance: 0.403424583333
+Target Velocity: 0.200854321172
+Current Velocity: 0.2095
+1.013
+Raw Distance: 0.487
+Anticipated Distance: 0.38704
+Target Velocity: 0.196733322038
+Current Velocity: 0.204
+1.033
+Raw Distance: 0.467
+Anticipated Distance: 0.368693333333
+Target Velocity: 0.192013888387
+Current Velocity: 0.202
+1.053
+Raw Distance: 0.447
+Anticipated Distance: 0.352768333333
+Target Velocity: 0.187821280299
+Current Velocity: 0.197
+1.072
+Raw Distance: 0.428
+Anticipated Distance: 0.336968333333
+Target Velocity: 0.183566972338
+Current Velocity: 0.193
+1.091
+Raw Distance: 0.409
+Anticipated Distance: 0.32228125
+Target Velocity: 0.179521934593
+Current Velocity: 0.1875
+1.11
+Raw Distance: 0.39
+Anticipated Distance: 0.305973333333
+Target Velocity: 0.17492093452
+Current Velocity: 0.184
+1.128
+Raw Distance: 0.372
+Anticipated Distance: 0.29212125
+Target Velocity: 0.170915549322
+Current Velocity: 0.1785
+1.146
+Raw Distance: 0.354
+Anticipated Distance: 0.274864583333
+Target Velocity: 0.165790404829
+Current Velocity: 0.1775
+1.163
+Raw Distance: 0.337
+Anticipated Distance: 0.263333333333
+Target Velocity: 0.162275485929
+Current Velocity: 0.17
+1.179
+Raw Distance: 0.321
+Anticipated Distance: 0.25192125
+Target Velocity: 0.158720272807
+Current Velocity: 0.1635
+1.196
+Raw Distance: 0.304
+Anticipated Distance: 0.23596
+Target Velocity: 0.153609895515
+Current Velocity: 0.162
+1.212
+Raw Distance: 0.288
+Anticipated Distance: 0.22303125
+Target Velocity: 0.149342308138
+Current Velocity: 0.1575
+1.227
+Raw Distance: 0.273
+Anticipated Distance: 0.210373333333
+Target Velocity: 0.145042522501
+Current Velocity: 0.154
+1.242
+Raw Distance: 0.258
+Anticipated Distance: 0.198324583333
+Target Velocity: 0.140827761231
+Current Velocity: 0.1495
+1.257
+Raw Distance: 0.243
+Anticipated Distance: 0.187468333333
+Target Velocity: 0.136919075856
+Current Velocity: 0.143
+1.271
+Raw Distance: 0.229
+Anticipated Distance: 0.17564125
+Target Velocity: 0.132529713649
+Current Velocity: 0.1395
+1.285
+Raw Distance: 0.215
+Anticipated Distance: 0.16256
+Target Velocity: 0.127499019604
+Current Velocity: 0.138
+1.298
+Raw Distance: 0.202
+Anticipated Distance: 0.153454583333
+Target Velocity: 0.123876786903
+Current Velocity: 0.1315
+1.311
+Raw Distance: 0.189
+Anticipated Distance: 0.143068333333
+Target Velocity: 0.119611175621
+Current Velocity: 0.127
+1.324
+Raw Distance: 0.176
+Anticipated Distance: 0.132335
+Target Velocity: 0.115036950585
+Current Velocity: 0.123
+1.336
+Raw Distance: 0.164
+Anticipated Distance: 0.122
+Target Velocity: 0.110453610172
+Current Velocity: 0.12
+1.347
+Raw Distance: 0.153
+Anticipated Distance: 0.11344125
+Target Velocity: 0.106508802453
+Current Velocity: 0.1155
+1.358
+Raw Distance: 0.142
+Anticipated Distance: 0.106104583333
+Target Velocity: 0.103007079045
+Current Velocity: 0.1085
+1.369
+Raw Distance: 0.131
+Anticipated Distance: 0.0963733333333
+Target Velocity: 0.0981699207157
+Current Velocity: 0.106
+1.38
+Raw Distance: 0.12
+Anticipated Distance: 0.0868683333333
+Target Velocity: 0.0932031830644
+Current Velocity: 0.103
+1.39
+Raw Distance: 0.11
+Anticipated Distance: 0.07953125
+Target Velocity: 0.0891802949087
+Current Velocity: 0.0975
+1.399
+Raw Distance: 0.101
+Anticipated Distance: 0.0730933333333
+Target Velocity: 0.0854946392082
+Current Velocity: 0.092
+1.408
+Raw Distance: 0.092
+Anticipated Distance: 0.0645483333333
+Target Velocity: 0.0803419774049
+Current Velocity: 0.091
+1.417
+Raw Distance: 0.083
+Anticipated Distance: 0.0588545833333
+Target Velocity: 0.0767167408936
+Current Velocity: 0.0835
+1.425
+Raw Distance: 0.075
+Anticipated Distance: 0.05254125
+Target Velocity: 0.0724853433461
+Current Velocity: 0.0795
+1.432
+Raw Distance: 0.068
+Anticipated Distance: 0.0469733333333
+Target Velocity: 0.068537094579
+Current Velocity: 0.076
+1.44
+Raw Distance: 0.06
+Anticipated Distance: 0.0403645833333
+Target Velocity: 0.0635331278416
+Current Velocity: 0.0725
+1.447
+Raw Distance: 0.053
+Anticipated Distance: 0.0349045833333
+Target Velocity: 0.0590801009929
+Current Velocity: 0.0685
+1.453
+Raw Distance: 0.047
+Anticipated Distance: 0.03039125
+Target Velocity: 0.0551282595408
+Current Velocity: 0.0645
+1.453
+Raw Distance: 0.047
+Anticipated Distance: 0.03039125
+Target Velocity: 0.0551282595408
+Current Velocity: 0.0645
+1.459
+Raw Distance: 0.041
+Anticipated Distance: 0.0261745833333
+Target Velocity: 0.0511611017604
+Current Velocity: 0.0595
+1.471
+Raw Distance: 0.029
+Anticipated Distance: 0.0141745833333
+Target Velocity: 0.0376491478434
+Current Velocity: 0.0595
+1.477
+Raw Distance: 0.023
+Anticipated Distance: 0.01053125
+Target Velocity: 0.0324518874644
+Current Velocity: 0.0525
+1.481
+Raw Distance: 0.019
+Anticipated Distance: 0.0103333333333
+Target Velocity: 0.0321455025366
+Current Velocity: 0.04
+1.484
+Raw Distance: 0.016
+Anticipated Distance: 0.01
+Target Velocity: 0.0316227766017
+Current Velocity: 0.03
+1.487
+Raw Distance: 0.013
+Anticipated Distance: 0.00662125
+Target Velocity: 0.0257317896774
+Current Velocity: 0.0315
+1.491
+Raw Distance: 0.009
+Anticipated Distance: 0.002235
+Target Velocity: 0.0149499163877
+Current Velocity: 0.033
+1.493
+Raw Distance: 0.007
+Anticipated Distance: 0.00209125
+Target Velocity: 0.014461154864
+Current Velocity: 0.0255
+1.496
+Raw Distance: 0.004
+Anticipated Distance: 0.00076
+Target Velocity: 0.00871779788708
+Current Velocity: 0.018
+1.497
+Raw Distance: 0.003
+Anticipated Distance: 0.00105458333333
+Target Velocity: 0.0102692907902
+Current Velocity: 0.0115
+1.498
+Raw Distance: 0.002
+Anticipated Distance: 0.00024125
+Target Velocity: 0.0049117206761
+Current Velocity: 0.0105

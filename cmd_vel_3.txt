@@ -1,0 +1,761 @@
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.011
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.0345
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.075
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.104
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.00349065850399
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.1285
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: -0.00349065850399
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.1645
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.00349065850399
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.193
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.219
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: -0.00349065850399
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.252
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.00349065850399
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.2825
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: -0.00349065850399
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.3095
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.00698131700798
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.3395
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: -0.00349065850399
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.37
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: -0.00698131700798
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.3985
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.4285
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.010471975512
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.4615
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: -0.013962634016
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.4845
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0244346095279
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.52
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: -0.0244346095279
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.55
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.00698131700798
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.5755
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.6095
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.6375
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.6675
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: -0.00349065850399
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.6985
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.725
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.7515
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.7465
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.7525
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.747
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.00349065850399
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.7485
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: -0.00349065850399
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.747
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.7465
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.7475
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.752
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: -0.00349065850399
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.7485
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.00349065850399
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.75
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: -0.00349065850399
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.7475
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.746
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.7495
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.75
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.7515
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.738
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.708
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.00349065850399
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.679
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.6565
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: -0.00349065850399
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.6165
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.5875
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: -0.0209439510239
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.556
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0244346095279
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.528
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: -0.00698131700798
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.4995
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.4685
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.00698131700798
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.4455
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.417
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.00698131700798
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.382
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: -0.010471975512
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.3485
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: -0.0174532925199
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.309
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0174532925199
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.284
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0174532925199
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.2655
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: -0.0279252680319
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.238
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: -0.00698131700798
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.2015
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0383972435439
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.168
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.010471975512
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.1365
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: -0.0314159265359
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.1175
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.00349065850399
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.0885
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.053
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.00698131700798
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.023
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: -0.013962634016
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.002
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+--
+twist: 
+  twist: 
+    linear: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    angular: 
+      x: 0.0
+      y: 0.0
+      z: 0.0
+--
+
